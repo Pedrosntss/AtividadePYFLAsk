@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-cabecalho {
+    text-align: center;
+    padding: 20px;
+    background-color: #032847;
+}
+.container-cabecalho h1{
+    font-weight: 100;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+}
